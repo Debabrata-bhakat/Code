@@ -1,0 +1,14 @@
+git clone <repo link> --> to pull the clone into your local machine
+git status --> shows the status of the git repo
+ls -la --> shows all the files including the hidden in the directory
+git add. --> to add all the files
+git add <file name> --> to add the file
+git commit -m"<name of commit>" -m"<description>" --> to commit the files
+git push origin master -->to get it live
+=======================================
+To start a project locally
+git init --> to initialise 
+ git add READ.md
+ git commit -m"" -m ""
+ git push origin master --> will give fatal error
+ 
